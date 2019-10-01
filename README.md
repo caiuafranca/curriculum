@@ -1,6 +1,6 @@
 <h1> Curriculun ON Line</h1>
-<h2>Curso javascript full stack em 8 semanas</h2>
-<p>Onebitcode</p>
+<h2>DO ZERO A PROGRAMADOR FULL STACK JAVASCRIPT EM 8 SEMANAS!</h2>
+<p>OneBitCode <a href="https://onebitcode.com/">https://onebitcode.com/</a></p>
 
 <ul>
   <li>HTML 5</li>
